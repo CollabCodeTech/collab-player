@@ -1,7 +1,8 @@
 import React from "react";
+import PlayerVideo from "./components/PlayerVideo";
 
 function App() {
-  return <h1>Vai Brasil!!!!</h1>;
+  return <PlayerVideo />;
 }
 
 export default App;
